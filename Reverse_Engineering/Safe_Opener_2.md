@@ -1,6 +1,6 @@
 # Safe Opener 2
 ## Description: 
-### This program has constructed the flag using hex ascii values. Identify the flag text by disassembling the program.
+### What can you do with this file? I forgot the key to my safe but this file is supposed to help me with retrieving the lost key. Can you help me unlock my safe?
 
 First of all, let's download the file.
 
