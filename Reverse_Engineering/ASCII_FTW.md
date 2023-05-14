@@ -22,7 +22,11 @@ The output 70 looks oddly similar to a hex value. With a single command, we can 
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/982eab71-1428-47da-8e3e-b7ec99f2c404)
 
-Our assumption was correct. Now, we have to analyze this executable. We can put great reverse engineering tool called ghidra to good use. After starting ghidra, we have to create a new project and select our ElF file. After successfully creating a project, we have to analyze the executable.
+Our assumption was correct. Now, we have to analyze this executable. We can put great reverse engineering tool called ghidra to good use. After starting ghidra, we have to create a new project and select our ElF file.
+
+![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/e77a2759-c2a5-44fc-9182-3ae23a59085b)
+
+After successfully creating a project, we have to analyze the executable.
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/1ee405b6-5b27-4802-913e-8e9cfdeb08dc)
 
