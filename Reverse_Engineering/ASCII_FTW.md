@@ -56,7 +56,7 @@ Got it! We have found the place, where our flag is stored. Let's just copy the w
 
 and save it into a file, named "data.txt".
 
-The only step left is to extract the flag from the file.
+The only step left, is to extract the flag from the file.
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/8cd7cec2-ab88-4b98-b4b1-11ae7b31b237)
 
