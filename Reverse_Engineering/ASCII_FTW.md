@@ -30,4 +30,16 @@ After successfully creating a project, we have to analyze the executable.
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/1ee405b6-5b27-4802-913e-8e9cfdeb08dc)
 
+At the first glance, the application can be very overwhelming. Watch a couple of tutorials, play around with it. You will have to use this program for future challenges.
 
+![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/b7cd64ac-0922-4cc0-b68e-1b12ff182ae2)
+
+But what is important for us right now, is the Symbol Tree. Click on the main function.
+
+![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/72be28e4-8cc7-4a3c-982d-355fc83cfb92)
+
+This will display the decompiled version of it.
+
+![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/2ab87729-c4e0-461f-8b76-af96ad21f04b)
+
+We can immediatly see, that this is the program that we ran. The same output appears here that we had: "printf("The flag starts with %x\n",0x70)".
