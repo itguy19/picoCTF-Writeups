@@ -6,7 +6,7 @@ After downloading the given file,
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/284a6769-947c-4489-b726-e09fb61b4551)
 
-we see that this file is a Linux executable ELF file.
+we see that this is a Linux executable ELF file.
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/b1b3a6ae-dd5c-47c3-9bd6-a332d130d5e4)
 
