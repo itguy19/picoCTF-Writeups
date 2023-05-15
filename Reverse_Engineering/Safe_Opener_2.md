@@ -22,7 +22,7 @@ When we look at the Symbol Tree,
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/1eb237c9-cfcb-408e-b0ab-166049c5f8d5)
 
-we see two function names: "main" und "openSafe". Let's select the openSafe function.
+we see two functions: "main" und "openSafe". Let's select the openSafe function.
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/905c1bcd-a53a-46a1-8f74-d551b61197d0)
 
