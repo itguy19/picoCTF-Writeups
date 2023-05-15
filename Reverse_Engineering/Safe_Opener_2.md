@@ -18,9 +18,6 @@ Flag: `picoCTF{SAf3_0p3n3rr_y0u_solv3d_it_b427942b}`
 But because we are cool and I am pretty sure that this isn't the intended way to find the flag, let's try another route, just for fun!
 
 First we open the given *.class file in ghidra and analyize it. 
-
-![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/60cafc43-f561-4721-b330-029ec29698cd)
-
 When we look at the Symbol Tree,
 
 ![image](https://github.com/itguy19/picoCTF-Writeups/assets/125930481/1eb237c9-cfcb-408e-b0ab-166049c5f8d5)
